@@ -1,3 +1,12 @@
+duo_unix-1.9.13:
+
+- Bugfixes for signal handling
+
+duo_unix-1.9.12:
+
+- Include https_timeout configuration parameter
+- IPv6 support on systems that have getaddrinfo
+
 duo_unix-1.9.11:
 
 - Improve compatibility with FreeBSD 10.
